@@ -1,4 +1,4 @@
-#Writa a script to sort a list
+#Python script to sort a list
 
 l = input("Enter a list of numbers separated by commas").split(',')
 sorted_list = sorted(l)
